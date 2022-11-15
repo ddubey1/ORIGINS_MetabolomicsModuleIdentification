@@ -1,4 +1,6 @@
 # ORIGINS_MetabolomicsModuleIdentification
+# Dhruv Dubey
+# Johns Hopkins University
 
 NonNovel_DEA.R
 Differential expression analysis of the non-novel (identifiable) metabolites found in the ORIGINS dataset.
